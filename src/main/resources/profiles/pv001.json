@@ -1,0 +1,7 @@
+{
+  "profileName": "pv001",
+  "videoCodec": "libx264",
+  "x264Opts": "keyint=25:min-keyint=25:scenecut=-1",
+  "videoBitrate": 1000000,
+  "audioCodec": "libfaac"
+}
